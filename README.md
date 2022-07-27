@@ -1,4 +1,8 @@
-### Hi there 👋
+# Zheng Wang
+- 🏖️ 2nd year PhD student at the department of Computer Science, UC Santa Barbara.
+- 🔭 I’m currently working on high-performance computing and end-to-end optimization for deep learning. 
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ash-Zheng&layout=compact&hide=html,css,tsql,Vim%20snippet,Jupyter%20Notebook&theme=dracula&langs_count=8&card_width=300)
 
 <!--
 **Ash-Zheng/Ash-Zheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
